@@ -1,0 +1,20 @@
+.borda{
+    border: greenyellow;
+    border-style:solid;
+}
+
+.br-50{
+    border-radius: 50%;
+}
+
+.font{
+    font-family: cursive;
+}
+
+.green{
+    color: greenyellow;
+}
+
+.black{
+    color: rgba(0, 0, 0, 0)
+}
